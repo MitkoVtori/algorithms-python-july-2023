@@ -3,3 +3,4 @@
 | |
 | -- |
 | <a href="Recursion - Lab">Recursion - Lab</a> |
+| <a href="Recursion and Backtracking - Exercise">Recursion and Backtracking - Exercise</a> |
